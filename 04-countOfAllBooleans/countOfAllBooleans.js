@@ -9,8 +9,5 @@ function countOfAllBooleans(arr) {
   return count;
 }
 
-console.log(countOfAllBooleans([true, false, 1, 'hello', true, 42]))
-
-
 // Do not edit this line;
 module.exports = countOfAllBooleans;
