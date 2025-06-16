@@ -5,9 +5,10 @@ class MySolution {
 
   binarySearch(nums, target) {
     // Insert code here;
-  }
+   
+}
 }
 
 // Do not edit this line;
 let StudentSolution = MySolution;
-module.exports = StudentSolution;
+module.exports = StudentSolution;q
